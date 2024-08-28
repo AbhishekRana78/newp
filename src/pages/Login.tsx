@@ -6,7 +6,7 @@ function Login() {
   const navigate = useNavigate();
   const token = localStorage.getItem("token");
 
-  const redirectUrl = "https://reach-inboxai-oneboxassignment.vercel.app/login";
+  const redirectUrl = "reach-inboxai-oneboxassignment.vercel.app";
   if (token) {
     navigate("/");
   }

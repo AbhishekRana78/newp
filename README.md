@@ -53,7 +53,7 @@ To run the application locally, follow the steps below:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/AbhishekRana78/reachInboxai-onebox.git
+   git clone https://https://github.com/AbhishekRana78/reachInboxai-oneboxassignment.git
    ```
 
 2. **Navigate to the Project Directory**:

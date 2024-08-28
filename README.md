@@ -81,21 +81,24 @@ To run the application locally, follow the steps below:
 
 **OneBox**
 
-![Screenshot 2024-08-26 231446](https://github.com/user-attachments/assets/f7eebed8-f88c-4ff0-a6e8-c78a15245994)
+![Screenshot 2024-08-26 231446](https://github.com/user-attachments/assets/eb60a569-f480-47c9-8372-579af534db4e)
 
 
 
 
 **MailList**
 
-![Screenshot 2024-08-26 231559](https://github.com/user-attachments/assets/cbc08a25-8f5c-47f4-80d4-ffff0a5b3228)
+![Screenshot 2024-08-26 231559](https://github.com/user-attachments/assets/55f22def-799e-4a05-a890-61078d45b749)
+
 
 
 **reply section**
-![Screenshot 2024-08-26 231708](https://github.com/user-attachments/assets/7eea0c6f-09a5-4305-a7b8-e2837b6c71f4)
+
+![Screenshot 2024-08-26 231708](https://github.com/user-attachments/assets/098f2396-0488-40cb-9344-50194343616c)
 
 **Delete Popup**
-![Screenshot 2024-08-26 231830](https://github.com/user-attachments/assets/c926e8d5-88da-4e5f-a679-36fe9a161c18)
+![Screenshot 2024-08-26 231830](https://github.com/user-attachments/assets/3c5ed497-833e-4191-99f6-4ead7239e515)
+
 
 
 

@@ -4,7 +4,7 @@
 
 ## Deployed link 
 
-**  https://reachinbox-onebox-self.vercel.app/  **
+**  https://reach-inboxai-oneboxassignment.vercel.app/  **
 
 
 ### **Overview**
